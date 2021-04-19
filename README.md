@@ -30,3 +30,9 @@ Use R to do the following:
 
 #### t-test for Lot 3
 <img width="530" alt="ttest lot 3" src="https://user-images.githubusercontent.com/72039212/115291514-7808db00-a11a-11eb-859d-9ed25ea25228.png">
+
+## Study Design: MechaCar vs Competition
+  ### What metric or metrics are you going to test?
+  ### What is the null hypothesis or alternative hypothesis?
+  ### What statistical test would you use to test the hypothesis? And why?
+  ### What data is needed to run the statistical test?
